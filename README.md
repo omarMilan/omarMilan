@@ -1,6 +1,9 @@
 # 💫 About Me:
-🌟 Hi, I'm Yousef Omar!<br>💻 Front-end Developer | 🎓 Computer Science Graduate<br>🏆 Senior Capstone Excellence Award & Top Hackathon Achiever<br>⚙️ Passionate about building engaging, responsive platforms<br>🌐 Let's create innovative solutions together!
-
+🌟 **Hi, I'm Yousef Omar!**<br>
+💻 **Front-end Developer** | 🎓 **Computer Science Graduate**<br>
+🏆 **Senior Capstone Excellence Award** & **Top Hackathon Achiever**<br>
+⚙️ **Passionate about building engaging, responsive platforms**<br>
+🌐 **Let's create innovative solutions together!**
 
 <div align="center">
 
@@ -29,4 +32,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/omarMilan/omarMilan/blob/output/github-snake-dark.svg)
 </div>
-
