@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌟 **Hi, I'm Yousef Omar!**<br>
-💻 **Front-end Developer** | 🎓 **Computer Science Graduate**<br>
+💻 **FullStack Developer** | 🎓 **Computer Science Graduate**<br>
 🏆 **Senior Capstone Excellence Award** & **Top Hackathon Achiever**<br>
 ⚙️ **Passionate about building engaging, responsive platforms**<br>
 🌐 **Let's create innovative solutions together!**
